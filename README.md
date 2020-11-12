@@ -32,3 +32,6 @@ Furthermore, we performed a t-test to compare the population mean to the mean of
 <img width="602" alt="Screen Shot 2020-11-12 at 5 24 51 PM" src="https://user-images.githubusercontent.com/68616522/99009477-1367a580-2516-11eb-820b-cbe78118ed11.png">
 
 Moreover, we performed a t-test to compare the population mean to the mean of the manufacturing lot 3; and using a significance level of 0.05 since we obtained a p-value = 0.042 we reject the null hypothesis. So our sample mean is different to our population mean.
+
+## Study Design: MechaCar vs Competition
+In order to compare the MechaCar cars performanmce versus the competition. We should realize an analysis to see how the maintenance costs of the MechaCar cars differ from the maintenance costs of the competition cars. In order to do this analysis we would need a  
