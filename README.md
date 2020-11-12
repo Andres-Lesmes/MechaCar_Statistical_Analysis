@@ -4,3 +4,12 @@ The linear regression on this data provide us the formula mpg = 6.27*vehicle_len
 
 ## Summary Statistics on Suspension Coils
 For the total suspension coils manufacturing production the design specification of not exceeding a variance of 100 pounds per square inch is met; since the variance for the whole production is 62.29 pounds per square inch. However, when analyzing the production by lots. The production in manufacturing Lot3 does not meet the design requirements since the variance in Lot3 is 170.29 pounds per square inch.
+
+## T-Tests on Suspension Coils
+By doing a t-test to compare if the mean of the whole data is different from the 1,500 pounds per square inch mean of the population; and with a significance level of 0.05 we obtained that our p-value of 0.06 which is greater than the significance level we failed to reject the null hypothesis. Which implies that over 95% of our samples do not differ much of the population mean.
+
+Then we performed a t-test to compare the population mean to the mean of the manufacturing lot 1; and using a significance level of 0.05 since we obtained a p-value = 1 we failed to reject the null hypothesis. So our sample mean is very similar to our population mean.
+
+Furthermore, we performed a t-test to compare the population mean to the mean of the manufacturing lot 2; and using a significance level of 0.05 since we obtained a p-value = 0.61 we failed to reject the null hypothesis. So our sample mean is very similar to our population mean.
+
+Moreover, we performed a t-test to compare the population mean to the mean of the manufacturing lot 3; and using a significance level of 0.05 since we obtained a p-value = 0.042 we reject the null hypothesis. So our sample mean is different to our population mean.
